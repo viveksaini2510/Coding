@@ -1,0 +1,1 @@
+s = s.substring(0, i) + dh + s.substring(i+1);
